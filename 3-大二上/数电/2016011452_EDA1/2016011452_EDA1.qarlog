@@ -1,0 +1,41 @@
+Quartus II Archive log --	D:/THU/2016011452_EDA1.qarlog
+
+Archive:	D:/THU/2016011452_EDA1.qar
+Date:		Thu Nov 30 13:17:14 2017
+Quartus II 64-Bit		13.0.0 Build 156 04/24/2013 SJ Full Version
+
+	=========== Files Selected: ===========
+D:/Quartus/Projects/EDA1/BDF/EDA1.bdf
+D:/Quartus/Projects/EDA1/BDF/calc.bdf
+D:/Quartus/Projects/EDA1/BDF/fre_div.bdf
+D:/Quartus/Projects/EDA1/BDF/fre_div_10.bdf
+D:/Quartus/Projects/EDA1/BDF/fre_div_5.bdf
+D:/Quartus/Projects/EDA1/BDF/fre_div_sim.bdf
+D:/Quartus/Projects/EDA1/BDF/full_adder.bdf
+D:/Quartus/Projects/EDA1/BDF/full_adder4.bdf
+D:/Quartus/Projects/EDA1/BDF/select.bdf
+D:/Quartus/Projects/EDA1/BSF/calc.bsf
+D:/Quartus/Projects/EDA1/BSF/fre_div.bsf
+D:/Quartus/Projects/EDA1/BSF/fre_div_10.bsf
+D:/Quartus/Projects/EDA1/BSF/fre_div_5.bsf
+D:/Quartus/Projects/EDA1/BSF/fre_div_sim.bsf
+D:/Quartus/Projects/EDA1/BSF/full_adder.bsf
+D:/Quartus/Projects/EDA1/BSF/full_adder4.bsf
+D:/Quartus/Projects/EDA1/BSF/select.bsf
+D:/Quartus/Projects/EDA1/EDA1.qpf
+D:/Quartus/Projects/EDA1/EDA1.qsf
+D:/Quartus/Projects/EDA1/VWF/EDA1.vwf
+D:/Quartus/Projects/EDA1/VWF/calc.vwf
+D:/Quartus/Projects/EDA1/VWF/fre_div.vwf
+D:/Quartus/Projects/EDA1/VWF/fre_div_10.vwf
+D:/Quartus/Projects/EDA1/VWF/fre_div_5.vwf
+D:/Quartus/Projects/EDA1/VWF/full_adder.vwf
+D:/Quartus/Projects/EDA1/VWF/full_adder4.vwf
+D:/Quartus/Projects/EDA1/VWF/select.vwf
+D:/Quartus/Projects/EDA1/db/EDA1.sim.vwf
+D:/Quartus/Projects/EDA1/incremental_db/compiled_partitions/EDA1.db_info
+e:/altera/quartus/bin64/assignment_defaults.qdf
+	======= Total: 30 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

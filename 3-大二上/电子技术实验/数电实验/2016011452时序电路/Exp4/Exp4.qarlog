@@ -1,0 +1,34 @@
+Quartus II Archive log --	D:/Quartus/Projects/Exp4/Exp4.qarlog
+
+Archive:	D:/Quartus/Projects/Exp4/Exp4.qar
+Date:		Wed Dec 13 23:31:20 2017
+Quartus II 64-Bit		13.0.0 Build 156 04/24/2013 SJ Full Version
+
+	=========== Files Selected: ===========
+D:/Quartus/Projects/Exp4/Exp4.qpf
+D:/Quartus/Projects/Exp4/Exp4.qsf
+D:/Quartus/Projects/Exp4/FDIV.v
+D:/Quartus/Projects/Exp4/FDIV.vwf
+D:/Quartus/Projects/Exp4/FDIV10.v
+D:/Quartus/Projects/Exp4/FDIV10.vwf
+D:/Quartus/Projects/Exp4/FDIV10E5.v
+D:/Quartus/Projects/Exp4/FDIV10E5.vwf
+D:/Quartus/Projects/Exp4/M1.bdf
+D:/Quartus/Projects/Exp4/M1.vwf
+D:/Quartus/Projects/Exp4/count24.v
+D:/Quartus/Projects/Exp4/count24.vwf
+D:/Quartus/Projects/Exp4/count60.v
+D:/Quartus/Projects/Exp4/count60.vwf
+D:/Quartus/Projects/Exp4/db/Exp4.sim.vwf
+D:/Quartus/Projects/Exp4/incremental_db/compiled_partitions/Exp4.db_info
+D:/Quartus/Projects/Exp4/keyTrigger.v
+D:/Quartus/Projects/Exp4/mux21.v
+D:/Quartus/Projects/Exp4/mux21.vwf
+D:/Quartus/Projects/Exp4/output_files/keyTrigger.vwf
+D:/Quartus/Projects/Exp4/select.v
+D:/Quartus/Projects/Exp4/select.vwf
+e:/altera/quartus/bin64/assignment_defaults.qdf
+	======= Total: 23 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

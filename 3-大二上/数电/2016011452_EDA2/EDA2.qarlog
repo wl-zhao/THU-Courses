@@ -1,0 +1,36 @@
+Quartus II Archive log --	D:/Quartus/Projects/EDA2/EDA2.qarlog
+
+Archive:	D:/Quartus/Projects/EDA2/EDA2.qar
+Date:		Sat Dec 30 14:48:16 2017
+Quartus II 64-Bit		13.0.0 Build 156 04/24/2013 SJ Full Version
+
+	=========== Files Selected: ===========
+D:/Quartus/Projects/EDA2/EDA2.bdf
+D:/Quartus/Projects/EDA2/EDA2.qpf
+D:/Quartus/Projects/EDA2/EDA2.qsf
+D:/Quartus/Projects/EDA2/db/EDA2.sim.vwf
+D:/Quartus/Projects/EDA2/incremental_db/compiled_partitions/EDA2.db_info
+D:/Quartus/Projects/EDA2/testbench/Control_test.v
+D:/Quartus/Projects/EDA2/testbench/FDIV_test.v
+D:/Quartus/Projects/EDA2/testbench/display_test.v
+D:/Quartus/Projects/EDA2/testbench/keyMatrix_test.v
+D:/Quartus/Projects/EDA2/verilog/BCD_DIG.v
+D:/Quartus/Projects/EDA2/verilog/Control.v
+D:/Quartus/Projects/EDA2/verilog/Control_sim.v
+D:/Quartus/Projects/EDA2/verilog/FDIV.v
+D:/Quartus/Projects/EDA2/verilog/display.v
+D:/Quartus/Projects/EDA2/verilog/keyMatrix.v
+D:/Quartus/Projects/EDA2/verilog/main.v
+D:/Quartus/Projects/EDA2/verilog/select.v
+D:/Quartus/Projects/EDA2/waveform/keyMatrix.vwf
+e:/altera/quartus/bin64/assignment_defaults.qdf
+	======= Total: 19 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Sat Dec 30 14:49:05 2017
+Source archive file:	D:/THU/DA/EDA2.qar
+Archive was extracted into	D:/THU/DA/EDA22_restored/
+		 - successfully.
